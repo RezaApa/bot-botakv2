@@ -53,8 +53,8 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 ```
 **Lalu clone repo**
 ```bash
-> git clone https://github.com/RezaApa/bot-botak
-> cd bot-botak
+> git clone https://github.com/RezaApa/bot-botakv2
+> cd bot-botakv2
 ```
 **Lanjutkan dengan**
 ```bash

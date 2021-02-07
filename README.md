@@ -85,7 +85,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * Apikey tobz
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/RezaApa/bot-botak/blob/master/index.js/#L13)
 
 ## Settings di termux
 

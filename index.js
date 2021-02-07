@@ -24,7 +24,7 @@ const ovo = '081297285516';
 const pulsa = '085878573894';
 const dana = '081297285516';
 const instagram = 'http://www.instagram.com/reza.apa_';
-const aktif = 'MAU MAU SAYA DONG>:(';
+const aktif = '12.00 sd. 22.00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
   + 'FN:RezaApa\n' // Nama kamu
@@ -2599,7 +2599,7 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`,
       contextInfo: { mentionedJid: [nomor] }
     }
@@ -2636,7 +2636,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2665,7 +2665,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2690,7 +2690,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2729,7 +2729,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2742,65 +2742,65 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║───────〘  *Text* 〙──────
 ╠════════════════════
 ╠≽ *.Kata (quotes/author)*
-╠ _Ex = .Kata Aku cinta dia/Lexa_ 
+╠ _Ex = .Kata Aku cinta dia/nama_ 
 ╠≽ *.Logopornhub (teks1/teks2)*
-╠ _Ex : .Logopornhub Lexa/nime_
+╠ _Ex : .Logopornhub gatau/nama_
 ╠≽ *.Lion (teks1/teks2)*
-╠ _Ex : .Lion Lexa/nime_
+╠ _Ex : .Lion Reja/nama_
 ╠≽ *.Ninja (teks1/teks2)*
-╠ _Ex : .Ninja Lexa/nime_
+╠ _Ex : .Ninja Reja/nama_
 ╠≽ *.Joker (teks1/teks2)*
-╠ _Ex : .Joker Lexa/nime_
+╠ _Ex : .Joker Reja/nama_
 ╠≽ *.Glitch (teks1/teks2)*
-╠ _Ex : .Glich Lexa/nime_
+╠ _Ex : .Glich Reja/nama_
 ╠≽ *.Wolf (teks1/teks2)*
-╠ _Ex : .Wolf Lexa/nime_
+╠ _Ex : .Wolf Reja/nama_
 ╠≽ *.Snow (teks)*
-╠ _Ex : .Snow Lexa_
+╠ _Ex : .Snow Reja_
 ╠≽ *.Neon1 (teks)*
-╠ _Ex : .Neon1 Lexa_
+╠ _Ex : .Neon1 Reja_
 ╠≽ *.Neon2 (teks)*
-╠ _Ex : .Neon2 Lexa_
+╠ _Ex : .Neon2 Reja_
 ╠≽ *.Neon3d (teks)*
-╠ _Ex : .Neon3d Lexa_
+╠ _Ex : .Neon3d Reja_
 ╠≽ *.Neon4 (teks)*
-╠ _Ex : .neon4 Lexa_
+╠ _Ex : .neon4 Reja_
 ╠≽ *.Neon5 (teks)*
-╠ _Ex : .neon5 Lexa_
+╠ _Ex : .neon5 Reja_
 ╠≽ *.Snow (teks)*
-╠ _Ex : .Snow Lexa_
+╠ _Ex : .Snow Reja_
 ╠≽ *.Coding (teks)*
-╠ _Ex : .Coding Lexa_
+╠ _Ex : .Coding Reja_
 ╠≽ *.Thunder (teks)*
-╠ _Ex : .Thunder Lexa_
+╠ _Ex : .Thunder Reja_
 ╠≽ *.Holo (teks)*
-╠ _Ex : .Holo Lexa_
+╠ _Ex : .Holo Reja_
 ╠≽ *.Blood (teks)*
-╠ _Ex : .Blood Lexa_
+╠ _Ex : .Blood Reja_
 ╠≽ *.Water (teks)*
-╠ _Ex : .Water Lexa_
+╠ _Ex : .Water Reja_
 ╠≽ *.Old (teks)*
-╠ _Ex : .Old Lexa_
+╠ _Ex : .Old Reja_
 ╠≽ *.Balon (teks)*
-╠ _Ex : .Balon Lexa_
+╠ _Ex : .Balon Reja_
 ╠≽ *.Metal (teks)*
-╠ _Ex : .Metal Lexa_
+╠ _Ex : .Metal Reja_
 ╠≽ *.Sand1 (teks)*
-╠ _Ex : .Sand1 Lexa_
+╠ _Ex : .Sand1 Reja_
 ╠≽ *.Sand2 (teks)*
-╠ _Ex : .Sand2 Lexa_
+╠ _Ex : .Sand2 Reja_
 ╠≽ *.Sand3 (teks)*
-╠ _Ex : .Sand3 Lexa_
+╠ _Ex : .Sand3 Reja_
 ╠≽ *.Sand4 (teks)*
-╠ _Ex : .Sand4 Lexa_
+╠ _Ex : .Sand4 Reja_
 ╠≽ *.Sky (teks)*
-╠ _Ex : .Sky Lexa_
+╠ _Ex : .Sky Rejaa_
 ╠≽ *.Cloud (teks)*
-╠ _Ex : .Cloud Lexa_
+╠ _Ex : .Cloud Reja_
 ╠≽ *.Blackpink (teks)*
-╠ _Ex : .Blackpink Lexa_
+╠ _Ex : .Blackpink Reja_
 ╠≽ *.Fontgen (teks)*
-╠ _Ex : .Fontgen Lexa_
+╠ _Ex : .Fontgen Reja_
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
@@ -2808,7 +2808,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2821,51 +2821,51 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║───────〘  *Text* 〙──────
 ╠════════════════════
 ╠≽ *.Bit8 (text/text)*
-╠ _Ex = .Bit8 Lexa/nime_ 
+╠ _Ex = .Bit8 Reja/nime_ 
 ╠≽ *.Pubg (teks1/teks2)*
-╠ _Ex : .Pubg Lexa/nime_
+╠ _Ex : .Pubg Reja/nime_
 ╠≽ *.Batllef (teks1/teks2)*
-╠ _Ex : .Battlef Lexa/nime_
+╠ _Ex : .Battlef Reja/nime_
 ╠≽ *.Shadow (teks)*
-╠ _Ex : .Shadow Lexa_
+╠ _Ex : .Shadow Reja_
 ╠≽ *.Paper1 (teks)*
-╠ _Ex : .Paper Lexa_
+╠ _Ex : .Paper Reja_
 ╠≽ *.Paper2 (teks)*
-╠ _Ex : .Paper Lexa_
+╠ _Ex : .Paper Reja_
 ╠≽ *.Coffee (teks)*
-╠ _Ex : .coffee Lexa_
+╠ _Ex : .coffee Reja_
 ╠≽ *.Block (teks)*
-╠ _Ex : .Block Lexa_
+╠ _Ex : .Block Reja_
 ╠≽ *.Heart (teks)*
-╠ _Ex : .Heart Lexa_
+╠ _Ex : .Heart Reja_
 ╠≽ *.Grass (teks)*
-╠ _Ex : .Grass Lexa_
+╠ _Ex : .Grass Reja_
 ╠≽ *.Ocean (teks)*
-╠ _Ex : .Ocean Lexa_
+╠ _Ex : .Ocean Reja_
 ╠≽ *.Board (teks)*
-╠ _Ex : .Board Lexa_
+╠ _Ex : .Board Reja_
 ╠≽ *.Mwolf (teks)*
-╠ _Ex : .Mwolf Lexa_
+╠ _Ex : .Mwolf Reja_
 ╠≽ *.Mglow (teks)*
-╠ _Ex : .Mglow Lexa_
+╠ _Ex : .Mglow Reja_
 ╠≽ *.Hpotter (teks)*
-╠ _Ex : .Hpotter Lexa_
+╠ _Ex : .Hpotter Reja_
 ╠≽ *.Cfire (teks)*
-╠ _Ex : .Cfire Lexa_
+╠ _Ex : .Cfire Reja_
 ╠≽ *.Wface1 (teks)*
-╠ _Ex : .Wface1 Lexa_
+╠ _Ex : .Wface1 Reja_
 ╠≽ *.Wface2 (teks)*
-╠ _Ex : .Wface2 Lexa_
+╠ _Ex : .Wface2 Reja_
 ╠≽ *.Battlef (teks)*
-╠ _Ex : .Battlef Lexa_
+╠ _Ex : .Battlef Reja_
 ╠≽ *.Lol (teks)*
-╠ _Ex : .Lol Lexa_
+╠ _Ex : .Lol Reja_
 ╠≽ *.Csgo (teks)*
-╠ _Ex : .Csgo Lexa_
+╠ _Ex : .Csgo Reja_
 ╠≽ *.Tahta (teks)*
-╠ _Ex : .Tahta Lexa_
+╠ _Ex : .Tahta Reja_
 ╠≽ *.Owatch (teks)*
-╠ _Ex : .Owatch Lexa_
+╠ _Ex : .Owatch Reja_
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
@@ -2873,7 +2873,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2910,7 +2910,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2925,11 +2925,11 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽️ *.Stiker*
 ╠ _Kirim foto ketik .stiker_ 
 ╠≽️ *.Nulis*
-╠ _Ex = .Nulis aku cinta Lexa_ 
+╠ _Ex = .Nulis aku cinta Reja_ 
 ╠≽️ *.Ocr*
 ╠ _Mencopy kalimat di gambar_ 
 ╠≽️ *.Stalk (username ig)*
-╠ _Ex = .Stalk @Lexa_ 
+╠ _Ex = .Stalk @reza.apa_ 
 ╠≽️ *.Shortlink (link)*
 ╠ _Pemendek link_ 
 ╠≽️ *.ssweb (link)*
@@ -2941,7 +2941,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -2954,11 +2954,11 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║─────〘  *Primbon* 〙──────
 ╠════════════════════
 ╠≽️ *.Arti (Namamu)*
-╠ _Ex = .Arti Lexa_ 
+╠ _Ex = .Arti Reja_ 
 ╠≽️ *.Couple (Namamu & doi)*
-╠ _Ex = .Couple Lexa & udan_ 
+╠ _Ex = .Couple Reja & Gatau siapa_ 
 ╠≽️ *.Getzodiak (Nama & tgl)
-╠ _Ex : .Getzodiak Lexa & 09-09-2002_ 
+╠ _Ex : .Getzodiak Botak & 09-09-2002_ 
 ╠≽️ *.Zodiak (Nama zodiak)*
 ╠ _Ex : .Zodiak libra_ 
 ╠≽️ *.Mimpi (teks)*
@@ -2970,7 +2970,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -3017,7 +3017,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ╠≽️ *.Chatprank (teks1/teks2)*
 ╠ _Ex : .Chatprank Hai bang/sat_ 
 ╠≽️ *.Alay (teks)*
-╠ _Ex : .Alay hai Lexa_ 
+╠ _Ex : .Alay hai reja ganteng_ 
 ╠════════════════════
 ║──────── *${BotName}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
@@ -3025,7 +3025,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 
@@ -3055,7 +3055,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 
@@ -3090,7 +3090,7 @@ Gunakan command dengan huruf kecil dan tanpa tanda kurung ()
 ║──────── *${BotName}* ────────
 ╠════════════════════
 ╠════════════════════
-║────✪ 🄼🅁🄵.🅉🅅🅇 ✪────
+║────✪ 🄱🄾🅃.🄱🅃🄺 ✪────
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 

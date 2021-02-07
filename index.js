@@ -15,21 +15,21 @@ const speed = require('performance-now');
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
 const tobzkey = 'apikey';
-const BotName = 'Lexa';
-const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
+const BotName = 'Reja Ganteng';
+const wa = 'https://chat.whatsapp.com/JC6O4zLVkfx9aUcIDQAern';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
-const aktif = '08:00 - 22:00';
+const ow = 'RezaApa';
+const nomorowner = '081297285516';
+const ovo = '081297285516';
+const pulsa = '085878573894';
+const dana = '081297285516';
+const instagram = 'http://www.instagram.com/reza.apa_';
+const aktif = 'MAU MAU SAYA DONG>:(';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:RezaApa\n' // Nama kamu
+  + 'ORG:Reja Ganteng;\n' // Nama bot
+  + 'TEL;type=CELL;type=VOICE;waid=6281297285516:+62 812-9728-5516\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
 const

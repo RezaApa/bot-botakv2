@@ -53,8 +53,8 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 ```
 **Lalu clone repo**
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/RezaApa/bot-botak
+> cd bot-botak
 ```
 **Lanjutkan dengan**
 ```bash

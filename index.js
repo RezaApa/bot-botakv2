@@ -468,10 +468,10 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
 ╠≽️ *Asal Kota*
 ╠≽️ *Gender*
 ╠════════════════════
-║──────── *Lexa* ──────── 
+║────── *Bot.btk* ──────
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *Lexa* ────────
+║────── *Bot.btk* ──────
 ╠════════════════════
 ╠════════════════════` , MessageType.text);
   }

@@ -14,14 +14,14 @@
 
 
 <div align="center">
-    <img alt="ARELBOT" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
+    <img alt="bot-botak" src ="https://user-images.githubusercontent.com/72728486/104745189-62cd8a80-5780-11eb-987d-1b77e5989613.gif" width="50">
 </div>
 
 **Semua fitur bergantung pada api, jika mengalami error berarti api yang di pakai sedang bermasalah**
 
 
 ### Sebelum install tes fitur dulu disini
-* [TES BOT](https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst)
+* [TES BOT](https://chat.whatsapp.com/JC6O4zLVkfx9aUcIDQAern)
 
 ## Alat
 
@@ -40,8 +40,6 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * [Apibarbar](https://mhankbarbars.herokuapp.com/)
 * [Apivhtear](https://vhtear.com/)
 * [Apitobz](https://tobz-api.herokuapp.com/)
-
-**Masuk grup tes bot di atas untuk mendapatkan apikey gratis 🙂**
 
 ## Penginstalan
 
@@ -288,15 +286,6 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 | Info|✅|
 | Intro|✅|
 | Donasi|✅|
-
-## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
-
-## Partnership
-* [`NazwaS`](https://github.com/NazwaS/NazwaS)
-* [`re-Destro`](https://github.com/re-Destro)
 
 ## Terimakasih untuk
 * [`Fdciabdul`](https://github.com/fdciabdul)
